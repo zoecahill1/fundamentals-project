@@ -27,3 +27,7 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 4. https://seaborn.pydata.org/tutorial/categorical.html - refrenced throughout
 5. https://matplotlib.org/tutorials/introductory/pyplot.html - refrenced throughout
 6. https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html - refrenced throughout
+7. https://www.kdnuggets.com/2019/06/select-rows-columns-pandas.html
+8. https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
+9. https://stackoverflow.com/questions/33833832/building-multi-regression-model-throws-error-pandas-data-cast-to-numpy-dtype-o
+10. https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
