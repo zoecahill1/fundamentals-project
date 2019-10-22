@@ -1,3 +1,4 @@
+![banner](/img/banner.png)
 # Fundamentals of Data Analysis - Assesment
 This repository contains my solution for the assessment of the Fundamentals of Data Analysis Module in GMIT
 
@@ -15,10 +16,22 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 2. 7/ Press Enter. Your local clone will be created.
 
+## How to View the Notebook
+- Click on the numpy-random.ipynb file in the repository and GitHub will render the notebook for you.
+- If the notebook does not render you can copy and paste the link of the numpy-random.ipynb file to the nbviewer site [here](https://nbviewer.jupyter.org/)
+- If you wish to run the notebook from your local machine:
+	1. Follow the download instructions above.
+	2. Open command line.
+	3. Cd to where you downloaded the notebook.
+	4. Type jupyter notebook to open the jupyter interface.
+	5. Click on the numpy-random.ipynb file.
+
 ## Libraries Used 
-1. [Pandas](https://pandas.pydata.org/) -  an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools.
-2. [Matplotlib](https://matplotlib.org/) - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
-3. [numpy](https://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
+1. [Seaborn](https://seaborn.pydata.org/)Seaborn - is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+2. [Pandas](https://pandas.pydata.org/) - is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+3. [Matplotlib](https://matplotlib.org/) - is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms.
+4. [NumPy](https://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python. It contains among other things; a powerful N-dimensional array object, sophisticated (broadcasting) functions, tools for integrating C/C++ and Fortran code, useful linear algebra, Fourier transform, and random number capabilities.
+5. [StatsModels](https://www.statsmodels.org/stable/index.html) - is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration
 
 ## Refrences
 1. https://www.kaggle.com/jsphyg/tipping
@@ -37,3 +50,5 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 14. https://datascience.stackexchange.com/questions/51787/statsmodels-ols-does-not-include-all-categorical-values
 15. https://stackoverflow.com/questions/50733014/linear-regression-with-dummy-categorical-variables
 16. http://www.statsmodels.org/0.6.1/examples/notebooks/generated/interactions_anova.html
+17. https://datatofish.com/statsmodels-linear-regression/
+18. https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4
