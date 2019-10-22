@@ -31,3 +31,9 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 8. https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-6fcd0170be9c
 9. https://stackoverflow.com/questions/33833832/building-multi-regression-model-throws-error-pandas-data-cast-to-numpy-dtype-o
 10. https://towardsdatascience.com/the-dummys-guide-to-creating-dummy-variables-f21faddb1d40
+11. https://stackoverflow.com/questions/37265312/how-to-create-dummies-for-certain-columns-by-pandas-get-dummies-method
+12. https://stackoverflow.com/questions/24109779/running-get-dummies-on-several-dataframe-columns
+13. https://stackoverflow.com/questions/33833832/building-multi-regression-model-throws-error-pandas-data-cast-to-numpy-dtype-o
+14. https://datascience.stackexchange.com/questions/51787/statsmodels-ols-does-not-include-all-categorical-values
+15. https://stackoverflow.com/questions/50733014/linear-regression-with-dummy-categorical-variables
+16. http://www.statsmodels.org/0.6.1/examples/notebooks/generated/interactions_anova.html
