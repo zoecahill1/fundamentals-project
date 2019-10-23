@@ -52,3 +52,4 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 16. http://www.statsmodels.org/0.6.1/examples/notebooks/generated/interactions_anova.html
 17. https://datatofish.com/statsmodels-linear-regression/
 18. https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4
+19. https://stackoverflow.com/questions/31556424/how-do-i-change-the-plot-size-of-a-regplot-in-seaborn
