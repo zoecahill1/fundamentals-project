@@ -54,3 +54,5 @@ This assessment concerns the well-known tips dataset and the Python packages sea
 18. https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4
 19. https://stackoverflow.com/questions/31556424/how-do-i-change-the-plot-size-of-a-regplot-in-seaborn
 20. https://stats.stackexchange.com/questions/18844/when-and-why-should-you-take-the-log-of-a-distribution-of-numbers
+21. https://www.xlstat.com/en/solutions/features/ordinary-least-squares-regression-ols
+22. https://www.accelebrate.com/blog/interpreting-results-from-linear-regression-is-the-data-appropriate
